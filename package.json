@@ -1,0 +1,14 @@
+{
+  "name": "demoNode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "demoNode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon demoNode.js",
+    "start-server":"node demoNode.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
